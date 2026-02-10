@@ -14,58 +14,98 @@ Algorithms
 Algorithm 1: Creation of a Dictionary
 
 1.Start the program.
+
+
 2.fine a dictionary using curly braces {}.
+
 3.Add data in the form of key–value pairs.
+
 4.Print the dictionary.
+
 5.Stop the program.
+
 
 Algorithm 2: Retrieving Values from a Dictionary
 
+
 1.Start the program.
+
 2.Create a dictionary with multiple key–value pairs.
+
 3.Access a value using its corresponding key.
+
 4.Display the retrieved value.
+
 5.Stop the program.
+
 
 Algorithm 3: Overwriting Existing Dictionary Values
 
 1.Start the program.
+
 2.Create a dictionary with predefined values.
+
 3.Assign a new value to an existing key.
+
 4.Print the updated dictionary.
+
 5.Stop the program.
+
 
 Algorithm 4: Finding the Length of a Dictionary
 
 1.Start the program.
+
 2.Create a dictionary.
+
 3.Use the len() function to calculate the number of key–value pairs.
+
 4.Display the length.
+
 5.Stop the program.
+
 
 Algorithm 5: Adding or Modifying Key–Value Pairs
 
 1.Start the program.
+
 2.Create a dictionary.
+
 3.Add a new key with a value or modify an existing key.
+
+
 4.Print the updated dictionary.
+
+
 5.Stop the program.
 
 Algorithm 6: Determining the Type of a Dictionary
 
+
 1.Start the program.
+
 2.Create a dictionary variable.
+
 3.Use the type() function.
+
 4.Display the data type.
+
 5.Stop the program.
+
 
 Algorithm 7: Practical Problems Using Dictionary
 
+
 1.Start the program.
+
 2.Create dictionaries for products, students, users, or marks.
+
 3.Perform operations like update, search, validation, and condition checking.
+
 4.Display appropriate output.
+
 5.Stop the program.
+
 
 Theory
 
